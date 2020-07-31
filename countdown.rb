@@ -1,6 +1,6 @@
 
 def countdown(num)
-  count = 10 
+  num = 10 
   while count > 0 
   puts "#{count}"
   count -= 1 
