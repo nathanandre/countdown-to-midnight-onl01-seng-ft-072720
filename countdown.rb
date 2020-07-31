@@ -1,5 +1,5 @@
 
-def countdown
+def countdown(num)
   count = 10 
   while count > 0 
   puts "#{count}"
